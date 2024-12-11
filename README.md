@@ -71,6 +71,6 @@ Bem-vindo ao meu GitHub! Sou o **Endrio Maciel**, um **Desenvolvedor Web** apaix
 
 ## 📫 Entre em contato
 - **LinkedIn**: [linkedin.com/in/endrio-maciel](https://linkedin.com/in/endrio-maciel)  
-- **Email**: endrio.maciel@gmail.com  
+- **Email**: endriomaciel@gmail.com  
 
 Obrigado pela visita! Sinta-se à vontade para explorar e entrar em contato. 🚀
