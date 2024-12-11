@@ -56,14 +56,6 @@ Bem-vindo ao meu GitHub! Sou o **Endrio Maciel**, um **Desenvolvedor Web** apaix
 />
 <img 
     align="left" 
-    alt="npm"
-    title="npm" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -80,7 +72,5 @@ Bem-vindo ao meu GitHub! Sou o **Endrio Maciel**, um **Desenvolvedor Web** apaix
 ## 📫 Entre em contato
 - **LinkedIn**: [linkedin.com/in/endrio-maciel](https://linkedin.com/in/endrio-maciel)  
 - **Email**: endrio.maciel@gmail.com  
-
----
 
 Obrigado pela visita! Sinta-se à vontade para explorar e entrar em contato. 🚀
