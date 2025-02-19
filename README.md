@@ -40,14 +40,6 @@ Bem-vindo ao meu GitHub! Sou o **Endrio Maciel**, um **Desenvolvedor Web** apaix
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/java-original.svg" 
-/>
-<img 
-    align="left" 
     alt="prisma"
     title="prisma" 
     width="30px" 
