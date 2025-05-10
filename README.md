@@ -1,6 +1,6 @@
 # Olá 👋
 
-Bem-vindo ao meu GitHub! Sou o **Endrio Maciel**, um **Desenvolvedor Web** apaixonado e dedicado, em transição de carreira do marketing digital para a tecnologia. Aqui, você encontrará minha jornada através do código, com projetos, estudos e contribuições.
+Bem-vindo ao meu GitHub! Sou o **Endrio Maciel**, um **Desenvolvedor Back End** apaixonado e dedicado, em transição de carreira do marketing digital para a tecnologia. Aqui, você encontrará minha jornada através do código, com projetos, estudos e contribuições.
 
 ## 📫 Entre em contato
 - **LinkedIn**: [linkedin.com/in/endrio-maciel](https://linkedin.com/in/endrio-maciel)  
